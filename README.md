@@ -1,2 +1,2 @@
 # database-admin
-Database Administration Home Task 3
+Database Administration. Home Task 3.
